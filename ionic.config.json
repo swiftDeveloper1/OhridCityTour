@@ -1,0 +1,7 @@
+{
+  "name": "ohridCityTour",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
